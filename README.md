@@ -8,7 +8,7 @@ Demo project for integrating with NKOActivityIndicatorView via Swift Package Man
 
 ## Dependencies
 See [Package.resolved](https://github.com/madhikarma/BDKCollectionIndexViewSPMDemo/blob/main/BDKCollectionIndexViewSPMDemo.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved) for full list:
-- [BDKCollectionIndexView](https://github.com/nakiostudio/BDKCollectionIndexView) 
+- [BDKCollectionIndexView](https://github.com/kreeger/BDKCollectionIndexView) 
   - Note. this is currently [forked](https://github.com/madhikarma/BDKCollectionIndexView/tree/swiftpm-support) in the `swiftpm-support` branch
 
 ## Setup
