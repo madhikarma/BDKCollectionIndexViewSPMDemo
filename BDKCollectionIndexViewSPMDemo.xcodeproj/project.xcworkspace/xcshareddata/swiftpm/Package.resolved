@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BDKCollectionIndexView",
+        "repositoryURL": "git@github.com:madhikarma/BDKCollectionIndexView.git",
+        "state": {
+          "branch": null,
+          "revision": "e1eb5441b7a1ae5c83cafe45e0387d2ee74e1452",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
